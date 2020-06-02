@@ -1,4 +1,4 @@
-# swift-projects
+# Swift-Apps
 
 This entire repo will contain different iOS apps I have been learning to make as part of my lockdown-learning!
 
