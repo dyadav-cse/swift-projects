@@ -12,3 +12,7 @@ This is a beginner level game tutorial in which a pair of card is picked up from
 
 ## 2. MatchApp
 In this game, we display different 16 cards on the screen. User has tap on two cards one by one, if both matches, the cards get disappeared. Else, they go to reset. User has to open all right pairs to win before time runs out!
+
+
+## 2. Quiz App
+This app is a template to make a quiz app like Magoosh-GRE flashcards. 
