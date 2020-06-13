@@ -8,7 +8,6 @@ In order to install it successfully, you will need XCode 11+ installed on your m
 ## 1. War-Card Game
 This is a beginner level game tutorial in which a pair of card is picked up from a deck randomly. At each round of play, the higher card in the rank wins and its score increments by 1. It also provides facility to keep score against two players User/Computer. 
 
-![Alt Text](/warcard-front.png)
 
 ## 2. MatchApp
 In this game, we display different 16 cards on the screen. User has tap on two cards one by one, if both matches, the cards get disappeared. Else, they go to reset. User has to open all right pairs to win before time runs out!
